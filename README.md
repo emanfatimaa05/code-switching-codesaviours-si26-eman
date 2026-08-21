@@ -173,7 +173,7 @@ The Week 7 notebook contains dataset loading, train/test splitting, XLM-RoBERTa 
 
 A demo video will be added here:
 
-**Loom Demo:** `[Add Loom link here]`
+**Loom Demo:** `<https://www.loom.com/share/5476430174334c4e9a53f971b394e9e3>`
 
 ## 🚀 Future Improvements
 
